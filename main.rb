@@ -1,6 +1,6 @@
 #find out what day of the week you were born
 
-puts "Enter your date of birth. For example, if your date of birth was 6 July 1989 : Date = 6 , Month = 7 , and Y = 1989"
+puts "Enter your date of birth. For example, if your date of birth was 6 July 1989 : Then your birth Date = 6 , Month = 7 , and Year = 1989"
 
 puts "Input your birth date: "
 date = gets.to_i
